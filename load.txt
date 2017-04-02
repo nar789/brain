@@ -1,18 +1,18 @@
-notepad
-	안녕하세요
-	안녕
-	반갑다 정말
-	하이
-	넌 누구니
-calc
-	꺼져
-	잘가
-	뭐지
-	시끄러워
-	사라져
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" http://cie.kunsan.ac.kr/
+	컴퓨터
+	컴퓨터공학과
+	컴공
+	군산대학교
+	컴퓨터 공학과
 "C:\Program Files (x86)\Hnc\Hwp80\Hwp.exe"
+	문서 작업
 	한글
-	문서 작업 하자
-	문서 열어줘
+	한글 열어줘
+	한글 파일
 	한글 파일 열어줘
-	워드 파일 열어줘
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" https://search.naver.com/search.naver?query=%EA%B5%B0%EC%82%B0%EB%82%A0%EC%94%A8
+	날씨 어때
+	지금 비 와
+	기온
+	습도
+	내일 날씨를 알려줘
